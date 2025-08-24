@@ -1,0 +1,18 @@
+/* 
+ * Source: https://xyy.miraheze.org/wiki/MediaWiki:Global.css
+ * License: CC BY-SA 4.0
+ */
+@font-face {
+    font-family: 'xyy-l3';
+    font-style: normal;
+    font-weight: 500;
+    src: url(fonts/IBMPlexSansSC-Medium-xyy.woff2) format('woff2');
+    unicode-range: U+20bb7, U+2aa0a, U+2b76d, U+2e8f3, U+3095b, U+30f5e, U+30f81;
+}
+@font-face {
+    font-family: 'xyy-l3';
+    font-style: normal;
+    font-weight: 400;
+    src: url(fonts/IBMPlexSansSC-Regular-xyy.woff2) format('woff2');
+    unicode-range: U+20bb7, U+2aa0a, U+2b76d, U+2e8f3, U+3095b, U+30f5e, U+30f81;
+}

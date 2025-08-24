@@ -1,0 +1,31 @@
+/* 
+ * Source: https://xyy.miraheze.org/wiki/MediaWiki:Global.css
+ * License: CC BY-SA 4.0
+ */
+@font-face {
+    font-family: 'Pindika';
+    font-style: normal;
+    font-weight: 400;
+    src: url(fonts/Pindika-Regular.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'Pindika';
+    font-style: italic;
+    font-weight: 400;
+    src: url(fonts/Pindika-Italic.woff2) format('woff2');
+    unicode-range: U+c1, U+c9, U+cd, U+d3, U+da, U+e1, U+e9, U+ed, U+f3, U+fa, U+0143-0144, U+01d7-01d8, U+1e3e-1e3f, U+1ebe-1ebf;
+}
+@font-face {
+    font-family: 'Pindika';
+    font-style: normal;
+    font-weight: 700;
+    src: url(fonts/Pindika-Bold.woff2) format('woff2');
+    unicode-range: U+c1, U+c9, U+cd, U+d3, U+da, U+e1, U+e9, U+ed, U+f3, U+fa, U+0143-0144, U+01d7-01d8, U+1e3e-1e3f, U+1ebe-1ebf;
+}
+@font-face {
+    font-family: 'Pindika';
+    font-style: italic;
+    font-weight: 700;
+    src: url(fonts/Pindika-BoldItalic.woff2) format('woff2');
+    unicode-range: U+c1, U+c9, U+cd, U+d3, U+da, U+e1, U+e9, U+ed, U+f3, U+fa, U+0143-0144, U+01d7-01d8, U+1e3e-1e3f, U+1ebe-1ebf;
+}
