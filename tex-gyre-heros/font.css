@@ -1,0 +1,27 @@
+/* 
+ * License: CC BY-SA 4.0
+ */
+@font-face {
+    font-family: 'TeXGyreHeros';
+    font-style: normal;
+    font-weight: 400;
+    src: url(fonts/texgyreheros-regular.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'TeXGyreHeros';
+    font-style: italic;
+    font-weight: 400;
+    src: url(fonts/texgyreheros-italic.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'TeXGyreHeros';
+    font-style: normal;
+    font-weight: 700;
+    src: url(fonts/texgyreheros-bold.woff2) format('woff2');
+}
+@font-face {
+    font-family: 'TeXGyreHeros';
+    font-style: italic;
+    font-weight: 700;
+    src: url(fonts/texgyreheros-bolditalic.woff2) format('woff2');
+}
